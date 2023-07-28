@@ -1,4 +1,4 @@
-Attached is the submission of the smart contract for the week 1 homework from group 4. In addition to changing the value of a string variable, we added the ability to add new admins - and only admin addresses had the ability to change the value of the string. Here is the address of the smart contract which was deployed on the Sepolia network: 0x8EB58a98CD4ADe606b3De36Df94ca32e8A9389A9
+Attached is the submission of the smart contract for the week 1 homework from group 4. In addition to changing the value of a string variable, we added the ability to add new admins - and only admin addresses had the ability to change the value of the string. Here is the address of the smart contract which was deployed by Nanda Girish on the Sepolia network: 0x8EB58a98CD4ADe606b3De36Df94ca32e8A9389A9
 
 A comprehensive breakdown of the first few interactions on the smart contract made by Nanda Girish:
 
